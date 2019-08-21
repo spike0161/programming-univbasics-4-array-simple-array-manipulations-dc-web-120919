@@ -44,7 +44,7 @@ end
 
 
 def using_flatten(array)
-  array.flatten(string)
+  array.flatten
 end
 
 
