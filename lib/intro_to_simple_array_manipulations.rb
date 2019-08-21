@@ -1,3 +1,3 @@
 def new_array(array,string)
-  new_array = array.push(string)
+  array.push(string)
 end
