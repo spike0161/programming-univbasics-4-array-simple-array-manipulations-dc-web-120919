@@ -1,3 +1,3 @@
-def new_array(array, string)
+def new_array(array,string)
   array.push(string)
 end
